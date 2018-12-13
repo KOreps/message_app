@@ -1,0 +1,5 @@
+redis==2.10.5                           # Синхронный клиент для Redis
+tornado-redis==2.4.18                   # Асинхронный клиент для Redis
+tornado==4.5.1                          # Веб-сокеты в django
+django-fieldsignals                     # Просмотр изменений в отдельных полях модели
+django-threadlocals==0.8                # Пакет для получения request 
